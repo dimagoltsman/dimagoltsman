@@ -74,7 +74,7 @@ http://innonegev.com
 ____________________________
 ### Publications
 <a href="https://medium.com/@dima_14216/mongodb-how-a-lonesome-bachelor-grows-to-a-large-loving-family-of-servers-30758d72b466" target="_blank"><img src="https://diginomica.com/sites/default/files/styles/article_images_desktop/public/images/2017-06/mongodb.png.webp?itok=a1hPvsob" width="100">
-How a lonesome bachelor grows to a large loving family (… of servers)MongoDB
+How a lonesome bachelor grows to a large loving family (… of servers)
 </a>
 
 May 17, 2017
