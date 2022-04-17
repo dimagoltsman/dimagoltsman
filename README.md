@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-![Scala](https://img.shields.io/badge/-scala-333333?style=flat&logo=scala)
+<a href="https://www.python.org/">![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)</a>
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)</a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)</a>
+<a href="https://www.w3schools.com/html/">![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)</a>
+ <a href="https://www.scala-lang.org/">![Scala](https://img.shields.io/badge/-scala-333333?style=flat&logo=scala)</a>
 
 
 ____________________________
