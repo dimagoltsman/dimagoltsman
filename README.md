@@ -109,24 +109,24 @@ __________________
     </tr>
     <tr>
       <td><a href="https://github.com/dimagoltsman/generic-remote-control-card"><b>HA Generic remote control card</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/dimagoltsman/generic-remote-control-card/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/generic-remote-control-card/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/generic-remote-control-card/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/generic-remote-control-card/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/generic-remote-control-card?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/dimagoltsman/refreshable-picture-card"><b>HA Refreshable picture card</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></td>
+      <td><a href = "https://github.com/dimagoltsman/refreshable-picture-card/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/refreshable-picture-card/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/refreshable-picture-card/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/refreshable-picture-card/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/refreshable-picture-card?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/dimagoltsman/ha-proof-dashcam-integration"><b>HA "Proof" dashcam integration</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></td>
+      <td><a href = "https://github.com/dimagoltsman/ha-proof-dashcam-integration/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/ha-proof-dashcam-integration/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/ha-proof-dashcam-integration/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/ha-proof-dashcam-integration/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
   </tbody>
 </table>
