@@ -95,17 +95,17 @@ __________________
   <tbody>
     <tr>
       <td><a href="https://dimagoltsman.github.io/Random-Broadlink-RM-Code-Generator"><b>Random Broadlink RM Code Generator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/> </a></td>
+      <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/dimagoltsman/ha-custom-component-ituran"><b>Ituran HA component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/dimagoltsman/ha-custom-component-ituran/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/ha-custom-component-ituran/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/ha-custom-component-ituran/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/ha-custom-component-ituran/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-custom-component-ituran?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/dimagoltsman/generic-remote-control-card"><b>HA Generic remote control card</b></a></td>
