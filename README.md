@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 
 ____________________________
 ### Experience
-<a href="https://www.evmux.com/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHqlOsiPgXMSA/company-logo_100_100/0/1607366631017?e=1655337600&v=beta&t=OaGQOtANhGsXLxxiq_fz_U_nesKOUcti9in9obXcr68" width="50"> evmux</a> - Full-time Senior Software Engineer
+<a href="https://www.evmux.com/" target="_blank"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="50"> evmux</a> - Full-time Senior Software Engineer
 Feb 2022 - Present
 Beersheba, Southern, Israel
 
 
-<a href="https://www.wix.com/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQH2iVdVVCQksA/company-logo_100_100/0/1566207209882?e=1655337600&v=beta&t=AwIAbFbh_KQEayQ29R-ordAB52HePqFonzVxNpi3yKk" width="50">Wix.com</a> - Full-time Senior Software Engineer
+<a href="https://www.wix.com/" target="_blank"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/wix.svg" width="50">Wix.com</a> - Full-time Senior Software Engineer
 Nov 2014 - Jan 2022 
 Tel Aviv
 
 
-<a href="https://www.fiverr.com/" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFHz9agyy675A/company-logo_100_100/0/1635337455276?e=1655337600&v=beta&t=c4zaXcWYVHvhwI6FGlBVMNf11lMs6JljUYQQARj5i-8" width="50"> fiverr</a>
+<a href="https://www.fiverr.com/" target="_blank"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/fiverr.svg" width="50"> fiverr</a>
 Software EngineerS
 Fiverr (Fiverr.com)
 Feb 2014 - Oct 2014 
@@ -51,7 +51,7 @@ Israel, Tel Aviv
 
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQGTMoFgGl4kcQ/company-logo_100_100/0/1519882170284?e=1655337600&v=beta&t=h5K0QLJcF7ojd9ldSbYxhHOFc83LHoGHIbW7uyquQuE" width="50"> eDealya
+<img src="edealya.png" width="50"> eDealya
 Developer
 eDealyae
 Feb 2011 - Jan 2014
@@ -59,11 +59,11 @@ Feb 2011 - Jan 2014
 ____________________________
 
 ### Education
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHRbhU4NGenAw/company-logo_100_100/0/1602428745921?e=1655337600&v=beta&t=y-YBQNNej-IXi9_hip_QE6USikpAhUXMXn-Zv8WOrNE" width="20"> Ben-Gurion University of the NegevBen-Gurion University of the Negev
+<img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/bgu.png" width="20"> Ben-Gurion University of the NegevBen-Gurion University of the Negev
 Computer Software EngineeringBachelor of Science (BSc) 2009 - 2012
 ____________________________
 ### Volunteering
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG7dZrFA32RIA/company-logo_100_100/0/1519952369616?e=1655337600&v=beta&t=mjXd-qxB84DU-QQ2d9_N55foHMGI5xMhSIWxEN9j9XQ" width="100"> 
+<img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/innonegev.webp" width="100"> 
 Technical Mentor - Inno-Negev
 Nov 2015 - Mar 2016 · 5 mosNov 2015 - Mar 2016 · 5 mos
 Science and TechnologyScience and Technology
