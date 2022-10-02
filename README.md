@@ -128,6 +128,13 @@ __________________
       <td><a href = "https://github.com/dimagoltsman/ha-proof-dashcam-integration/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/dimagoltsman/ha-proof-dashcam-integration/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/dimagoltsman/godaddy-ddns-multipudater"><b>Godaddy ddns updater</b></a></td>
+      <td><a href = "https://github.com/dimagoltsman/godaddy-ddns-multipudater/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/godaddy-ddns-multipudater/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href = "https://github.com/dimagoltsman/godaddy-ddns-multipudater/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/godaddy-ddns-multipudater/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
   </tbody>
 </table>
 
