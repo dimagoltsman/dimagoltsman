@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ____________________________
 ### Experience
-<a href="https://www.evmux.com/" target="_blank"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="50"> evmux</a> - Full-time Senior Software Engineer
+<a href="https://www.evmux.com/" target="_blank"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="50"> evmux</a> - Full-time VP R&D
 Feb 2022 - Present
 Beersheba, Southern, Israel
 
