@@ -94,6 +94,13 @@ __________________
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://dimagoltsman.github.io/whisperUI"><b>WhisperUI</b></a></td>
+      <td><a href="https://github.com/dimagoltsman/whisperUI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/> </a></td>
+      <td><a href="https://github.com/dimagoltsman/whisperUI/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/whisperUI/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/whisperUI/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
+    <tr>
       <td><a href="https://dimagoltsman.github.io/Random-Broadlink-RM-Code-Generator"><b>Random Broadlink RM Code Generator</b></a></td>
       <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/> </a></td>
       <td><a href="https://github.com/dimagoltsman/Random-Broadlink-RM-Code-Generator/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&labelColor=343b41"/></a></td>
