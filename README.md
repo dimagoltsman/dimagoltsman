@@ -94,7 +94,7 @@ __________________
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://dimagoltsman.github.io/whisperUI"><b>WhisperUI</b></a></td>
+      <td><a href="https://github.com/dimagoltsman/whisperUI"><b>WhisperUI</b></a></td>
       <td><a href="https://github.com/dimagoltsman/whisperUI/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/> </a></td>
       <td><a href="https://github.com/dimagoltsman/whisperUI/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/dimagoltsman/whisperUI/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/whisperUI?style=flat-square&labelColor=343b41"/></a></td>
