@@ -82,7 +82,7 @@ const dima = {
 </td>
 </tr>
 <tr>
-<td width="100" align="center"><img src="edealya.png" width="60"/></td>
+<td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/edealya.png" width="60"/></td>
 <td>
 <strong>Developer</strong> @ eDealya<br/>
 <sub>Feb 2011 - Jan 2014</sub>
