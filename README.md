@@ -64,7 +64,7 @@ const dima = {
 <td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="60"/></td>
 <td>
 <strong>VP R&D</strong> @ <a href="https://www.evmux.com/">evmux</a><br/>
-<sub>Feb 2022 - Present | Florida, USA (Remote)</sub>
+<sub>Feb 2022 - Present | Florida, USA</sub>
 </td>
 </tr>
 <tr>
