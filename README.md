@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dima%20Goltsman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=535&lines=Backend+Developer+%7C+VP+R%26D+%40+evmux;Sometimes+I+touch+frontend+%F0%9F%98%85;Home+Assistant+Enthusiast;Open+Source+Contributor;Building+cool+shit+since+2011" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=535&lines=Backend+Developer+%7C+VP+R%26D+%40+evmux;Sometimes+I+touch+frontend+%F0%9F%98%85;Home+Assistant+Enthusiast;Open+Source+Contributor;Building+cool+shit+since+2011" alt="Typing SVG" /></a>
 
 <!-- Profile Views Counter -->
 <br/>
 <img src="https://komarev.com/ghpvc/?username=dimagoltsman&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-<a href="https://github.com/dimagoltsman?tab=followers"><img src="https://img.shields.io/github/followers/dimagoltsman?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/></a>
+<a href="https://github.com/dimagoltsman?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/dimagoltsman?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/></a>
 
 </div>
 
@@ -63,21 +63,21 @@ const dima = {
 <tr>
 <td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="60"/></td>
 <td>
-<strong>VP R&D</strong> @ <a href="https://www.evmux.com/">evmux</a><br/>
+<strong>VP R&D</strong> @ <a href="https://www.evmux.com/" target="_blank">evmux</a><br/>
 <sub>Feb 2022 - Present | Florida, USA</sub>
 </td>
 </tr>
 <tr>
 <td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/wix.svg" width="60"/></td>
 <td>
-<strong>Senior Software Engineer</strong> @ <a href="https://www.wix.com/">Wix.com</a><br/>
+<strong>Senior Software Engineer</strong> @ <a href="https://www.wix.com/" target="_blank">Wix.com</a><br/>
 <sub>Nov 2014 - Jan 2022 | Tel Aviv (7+ years)</sub>
 </td>
 </tr>
 <tr>
 <td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/fiverr.svg" width="60"/></td>
 <td>
-<strong>Software Engineer</strong> @ <a href="https://www.fiverr.com/">Fiverr</a><br/>
+<strong>Software Engineer</strong> @ <a href="https://www.fiverr.com/" target="_blank">Fiverr</a><br/>
 <sub>Feb 2014 - Oct 2014 | Tel Aviv</sub>
 </td>
 </tr>
@@ -106,14 +106,14 @@ const dima = {
 
 | Project | Stars | Forks | Issues | PRs |
 |---------|-------|-------|--------|-----|
-| [**WhisperUI**](https://github.com/dimagoltsman/whisperUI) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/whisperUI?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/whisperUI?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/whisperUI?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/whisperUI?style=flat-square&color=green) |
-| [**Broadlink RM Code Generator**](https://dimagoltsman.github.io/Random-Broadlink-RM-Code-Generator) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=green) |
-| [**HA Ituran Component**](https://github.com/dimagoltsman/ha-custom-component-ituran) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=green) |
-| [**Generic Remote Control Card**](https://github.com/dimagoltsman/generic-remote-control-card) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/generic-remote-control-card?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/generic-remote-control-card?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/generic-remote-control-card?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/generic-remote-control-card?style=flat-square&color=green) |
-| [**Refreshable Picture Card**](https://github.com/dimagoltsman/refreshable-picture-card) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/refreshable-picture-card?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/refreshable-picture-card?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/refreshable-picture-card?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/refreshable-picture-card?style=flat-square&color=green) |
-| [**Proof Dashcam Integration**](https://github.com/dimagoltsman/ha-proof-dashcam-integration) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=green) |
-| [**GoDaddy DDNS Updater**](https://github.com/dimagoltsman/godaddy-ddns-multipudater) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=green) |
-| [**OSX Net Speed Limiter**](https://github.com/dimagoltsman/osx-net-speed-limiter) | ![Stars](https://img.shields.io/github/stars/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/whisperUI" target="_blank"><b>WhisperUI</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/whisperUI?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/whisperUI?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/whisperUI?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/whisperUI?style=flat-square&color=green) |
+| <a href="https://dimagoltsman.github.io/Random-Broadlink-RM-Code-Generator" target="_blank"><b>Broadlink RM Code Generator</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/Random-Broadlink-RM-Code-Generator?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/ha-custom-component-ituran" target="_blank"><b>HA Ituran Component</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/ha-custom-component-ituran?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/generic-remote-control-card" target="_blank"><b>Generic Remote Control Card</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/generic-remote-control-card?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/generic-remote-control-card?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/generic-remote-control-card?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/generic-remote-control-card?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/refreshable-picture-card" target="_blank"><b>Refreshable Picture Card</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/refreshable-picture-card?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/refreshable-picture-card?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/refreshable-picture-card?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/refreshable-picture-card?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/ha-proof-dashcam-integration" target="_blank"><b>Proof Dashcam Integration</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/godaddy-ddns-multipudater" target="_blank"><b>GoDaddy DDNS Updater</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&color=green) |
+| <a href="https://github.com/dimagoltsman/osx-net-speed-limiter" target="_blank"><b>OSX Net Speed Limiter</b></a> | ![Stars](https://img.shields.io/github/stars/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=yellow) | ![Forks](https://img.shields.io/github/forks/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=blue) | ![Issues](https://img.shields.io/github/issues/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=red) | ![PRs](https://img.shields.io/github/issues-pr/dimagoltsman/osx-net-speed-limiter?style=flat-square&color=green) |
 
 </div>
 
@@ -142,7 +142,7 @@ BSc Computer Software Engineering (2009-2012)
 
 ## 📝 Publications
 
-<a href="https://medium.com/@dima_14216/mongodb-how-a-lonesome-bachelor-grows-to-a-large-loving-family-of-servers-30758d72b466">
+<a href="https://medium.com/@dima_14216/mongodb-how-a-lonesome-bachelor-grows-to-a-large-loving-family-of-servers-30758d72b466" target="_blank">
   <img src="https://img.shields.io/badge/Medium-MongoDB%3A%20How%20a%20lonesome%20bachelor%20grows%20to%20a%20large%20loving%20family-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
@@ -152,10 +152,10 @@ BSc Computer Software Engineering (2009-2012)
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dima@goltsman.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimagoltsman/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DimaGolds)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Dimazaur/)
+<a href="mailto:dima@goltsman.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/dimagoltsman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/DimaGolds" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://www.facebook.com/Dimazaur/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
 
