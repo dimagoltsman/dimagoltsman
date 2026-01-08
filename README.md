@@ -142,6 +142,13 @@ __________________
       <td><a href = "https://github.com/dimagoltsman/godaddy-ddns-multipudater/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/godaddy-ddns-multipudater?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/dimagoltsman/godaddy-ddns-multipudater/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/ha-proof-dashcam-integration?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/dimagoltsman/osx-net-speed-limiter"><b>OSX Net Speed Limiter</b></a></td>
+      <td><a href="https://github.com/dimagoltsman/osx-net-speed-limiter/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/dimagoltsman/osx-net-speed-limiter?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/osx-net-speed-limiter/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/dimagoltsman/osx-net-speed-limiter?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/osx-net-speed-limiter/issues"><img alt="Issues" src="https://img.shields.io/github/issues/dimagoltsman/osx-net-speed-limiter?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/dimagoltsman/osx-net-speed-limiter/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/dimagoltsman/osx-net-speed-limiter?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
   </tbody>
 </table>
 
@@ -180,6 +187,10 @@ Wix Bookings
 
 <a href="https://www.find-car.co.il" target="_blank"><img src="https://www.mcicon.com/wp-content/uploads/2021/01/Transport_Car_1-copy-22.jpg" width="50">
 find-car site (sold)
+</a>
+
+<a href="https://github.com/dimagoltsman/osx-net-speed-limiter" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="50">
+OSX Net Speed Limiter - macOS app to throttle network bandwidth for testing
 </a>
 
 ____________________________
