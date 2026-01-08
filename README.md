@@ -108,11 +108,6 @@ const dima = {
   <img src="https://github-profile-trophy.vercel.app/?username=dimagoltsman&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
-<!-- Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 🎁 Open Source Projects
