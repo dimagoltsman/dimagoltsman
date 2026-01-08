@@ -92,18 +92,8 @@ const dima = {
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dimagoltsman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dimagoltsman&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimagoltsman&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<!-- GitHub Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dimagoltsman&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
