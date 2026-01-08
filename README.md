@@ -19,7 +19,7 @@
 
 ```javascript
 const dima = {
-    location: "Israel 🇮🇱",
+    location: "Florida, USA 🇺🇸",
     currentRole: "VP R&D @ evmux",
     education: "BSc Computer Science @ Ben-Gurion University",
     passions: ["Backend Systems", "Home Automation", "Open Source"],
@@ -48,6 +48,10 @@ const dima = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Janus](https://img.shields.io/badge/Janus-F7A41D?style=for-the-badge&logo=meetup&logoColor=white)
+![RTMP](https://img.shields.io/badge/RTMP-FA0F00?style=for-the-badge&logo=youtube&logoColor=white)
 
 </div>
 
@@ -60,7 +64,7 @@ const dima = {
 <td width="100" align="center"><img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/main/evmux.webp" width="60"/></td>
 <td>
 <strong>VP R&D</strong> @ <a href="https://www.evmux.com/">evmux</a><br/>
-<sub>Feb 2022 - Present | Beersheba, Israel</sub>
+<sub>Feb 2022 - Present | Florida, USA (Remote)</sub>
 </td>
 </tr>
 <tr>
@@ -181,14 +185,6 @@ BSc Computer Software Engineering (2009-2012)
 <a href="https://medium.com/@dima_14216/mongodb-how-a-lonesome-bachelor-grows-to-a-large-loving-family-of-servers-30758d72b466">
   <img src="https://img.shields.io/badge/Medium-MongoDB%3A%20How%20a%20lonesome%20bachelor%20grows%20to%20a%20large%20loving%20family-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimagoltsman&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
 
 ---
 
