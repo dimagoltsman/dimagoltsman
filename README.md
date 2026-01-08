@@ -129,27 +129,6 @@ const dima = {
 
 ---
 
-## 🏠 Featured Projects
-
-<div align="center">
-
-<a href="https://www.Home-Assistant.co.il">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimagoltsman&repo=ha-custom-component-ituran&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dimagoltsman/whisperUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimagoltsman&repo=whisperUI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dimagoltsman/osx-net-speed-limiter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimagoltsman&repo=osx-net-speed-limiter&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dimagoltsman/generic-remote-control-card">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimagoltsman&repo=generic-remote-control-card&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🎓 Education & Volunteering
 
 <table>
