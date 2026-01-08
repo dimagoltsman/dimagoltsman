@@ -92,6 +92,14 @@ const dima = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dimagoltsman/dimagoltsman/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+
+---
+
 ## 🎁 Open Source Projects
 
 <div align="center">
