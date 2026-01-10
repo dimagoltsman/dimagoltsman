@@ -16,8 +16,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dimagoltsman
-          outputs: |
-            dist/github-snake.svg?color_snake=#2da44e&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+          outputs: dist/github-snake-light.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
